@@ -43,6 +43,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
+1/14 searched up the badic format of an HTML file and used the google AI response becuase I didnt remeber eveythng I needed to include anc couldnt find the slides which contained examples so I went to the web.
 
 
 
