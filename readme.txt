@@ -62,4 +62,4 @@ I did not consult anyone else on this assignment.
 
 7. Is there anything special we need to know in order to run your code?
 
-No
+I dont think this is special but just make sure to also download the folder of images because I pull the imamges from there.
