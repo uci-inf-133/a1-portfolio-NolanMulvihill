@@ -1,0 +1,66 @@
+.header{
+    background-color: Black;
+    color: silver;
+    padding: 20px;
+    text-align: center;
+}
+
+.menuHeader{
+    border-right: 1px solid black;
+}
+
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: silver;
+}
+
+ul.horizontal{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+}
+ul.horizontal li{
+    float: left;
+    padding: 10px;
+    background-color: silver;
+    color: black;
+    border-right: 1px solid black;
+    text-align: center;
+}
+ul.horizontal li a{
+    color: black;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+ul.horizontal li a:hover{
+    color: silver;
+    background-color: black;
+}
+summary{
+    font-weight: bold;
+    cursor: pointer;
+    padding: 10px;
+    background-color: silver;
+    color: black;
+}
+
+.stickyMenu{
+    position: sticky;
+    top: 0;
+}
+
+.hobbiesTable{
+    background-color: Black;
+    color: silver;
+    border: 1px solid silver;
+}
+
+.hobbyImg{
+    width: 200px;
+    height: auto;
+}
